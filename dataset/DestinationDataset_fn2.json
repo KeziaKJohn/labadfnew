@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_fn2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Destinationdatas",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "destination"
+			}
+		}
+	}
+}
