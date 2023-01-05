@@ -1,0 +1,17 @@
+{
+	"name": "SourceDataset_ob1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SourceData",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "source"
+			}
+		}
+	}
+}
