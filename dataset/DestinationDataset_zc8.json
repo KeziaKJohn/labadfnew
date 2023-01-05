@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_zc8",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "DestinationDataset",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "destination"
+			}
+		}
+	}
+}
