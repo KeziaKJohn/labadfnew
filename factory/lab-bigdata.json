@@ -1,0 +1,9 @@
+{
+	"name": "lab-bigdata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a87de8a-4882-40f8-a836-b911230a8fc8",
+		"tenantId": "a8971712-829e-4c08-a4f9-78d29db8baf3"
+	}
+}

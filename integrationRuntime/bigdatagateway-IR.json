@@ -1,0 +1,6 @@
+{
+	"name": "bigdatagateway-IR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
