@@ -1,10 +1,6 @@
 {
 	"name": "DestinationDataset_ob1",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "DestinationData",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "Binary",
 		"typeProperties": {
